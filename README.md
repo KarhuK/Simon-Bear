@@ -1,2 +1,3 @@
 # Simon-Bear
-My personal repository
+
+- Student at Karelia University of Applied Sciences
